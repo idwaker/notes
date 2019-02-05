@@ -1,3 +1,3 @@
 # My Notes
 
-My all notes migrating to jupyter notebook
+My daily notes on development and workflow.
